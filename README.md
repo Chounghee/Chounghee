@@ -1,15 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chounghee%20Lee&fontSize=68)
 
 ![Chounghee's github stats](https://github-readme-stats.vercel.app/api?username=Chounghee&show_icons=true)
+[![https://github.com/Chounghee](https://github-readme-stats.vercel.app/api/top-langs/?username=Chounghee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Chounghee)
 ___
-### Tool
-사용하는 도구
+### Skills(Languages & Tools)
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=white)
 ![UE4](https://img.shields.io/badge/UE4-EAEAEA?style=plastic&logo=Unreal%20Engine&logoColor=black)
 ___
+
+
 <!--
 **Chounghee/Chounghee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
