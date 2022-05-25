@@ -3,8 +3,8 @@
 ##Tool
 사용하는 도구
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 <!--
 **Chounghee/Chounghee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
