@@ -5,7 +5,7 @@
 
 ## Tool
 사용하는 도구
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chounghee&layout=compact)](https://github.com/Chounghee/github-readme-stats)
 
