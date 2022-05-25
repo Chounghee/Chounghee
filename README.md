@@ -9,6 +9,8 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=white)
 ![UE4](https://img.shields.io/badge/UE4-EAEAEA?style=plastic&logo=Unreal%20Engine&logoColor=black)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chounghee&layout=compact)](https://github.com/Chounghee/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
